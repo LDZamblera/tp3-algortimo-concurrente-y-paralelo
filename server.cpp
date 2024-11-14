@@ -46,7 +46,7 @@ void handle_player(int client_sock) {
     close(client_sock);
 }
 
-int main() {
+int servermain() {
     int server_sock, client_sock;
     struct sockaddr_in server_addr, client_addr;
     socklen_t addr_size;

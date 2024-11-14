@@ -11,7 +11,7 @@ typedef struct {
     int status; // 0 = en juego, 1 = plantado, 2 = abandonó
 } PlayerStatus;
 
-int main() {
+int clientmain() {
     int sock;
     struct sockaddr_in server_addr;
     int card;
