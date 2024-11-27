@@ -1,10 +1,10 @@
 # tp3-algortimo-concurrente-y-paralelo
 
-01	Objetivo
+1	Objetivo
 
 El objetivo principal de esta actividad consiste en que el estudiante trabaje en posibles soluciones e implemente una solución a la problemática planteada, en la cual pondrá en juego las competencias de la materia. Puntualmente, trabajará con concurrencia y paralelismo, en memoria compartida y distribuida mediante procesos, subprocesos, hilos pipes y sockets.
 
-02	Situación problemática
+2	Situación problemática
 
 A continuación se presenta un caso. Lee con atención el mismo, teniendo presente cada uno de los contenidos que hemos desarrollado en el módulo, ya que luego tendrás que resolver una actividad retomándolos. Haz clic sobre el siguiente enlace para descargar el enunciado:
 
