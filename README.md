@@ -69,6 +69,6 @@ Revisa el punto 4, donde te especifico las condiciones del entregable. El punto 
 
 Recuerda que estoy siempre disponible para responder cualquier inquietud. Me tienes a un mensaje de distancia. Te espero por allí y te estaré leyendo en el foro.
 
-04	Formato entregable
+4	Formato entregable
 
 Deberás entregar un fichero .zip que contenga el código fuente desarrollado. Se valorará la claridad del código y que esté debidamente comentado. Adicionalmente, se considerará mayor puntaje si se incluye tratamiento correcto de errores, es decir, en caso de producirse errores, deberás informar al usuario del tipo de error ocurrido. Por último, deberás elaborar un breve informe (entrega en PDF) que incluya el trabajo teórico realizado y la resolución/análisis de los ejercicios planteados.
